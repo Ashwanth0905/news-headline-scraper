@@ -31,4 +31,7 @@ How to Run This Script
 1. Clone this repository or download the files.
 2. Make sure you have `requests` and `beautifulsoup4` installed:
    ```bash
+
+   TO RUN THE PROGRAM 
+python scraper.py
    pip install requests beautifulsoup4
